@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.View;
 import android.widget.EditText;
 
-import edu.psu.sweng.ff.client.*;
+import edu.psu.sweng.ff.client.Members;
 
 public class LoginActivity extends Activity {
 	
